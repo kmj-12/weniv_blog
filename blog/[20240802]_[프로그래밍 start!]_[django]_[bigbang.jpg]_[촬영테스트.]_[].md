@@ -2,3 +2,5 @@
 
 * hello world 1
 * hello world 2
+
+![빅뱅이론 이미지](img/bigbang.jpg)
