@@ -4,3 +4,19 @@
 * hello world 2
 
 ![빅뱅이론 이미지](img/bigbang.jpg)
+
+```python
+print('hello')
+```
+
+```py
+print('hello')
+```
+
+```javascript
+console.log('hello')
+```
+
+```js
+console.log('hello')
+```
