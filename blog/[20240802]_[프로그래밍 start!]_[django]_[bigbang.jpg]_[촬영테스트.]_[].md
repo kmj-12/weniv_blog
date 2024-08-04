@@ -1,4 +1,4 @@
-# 프로그래밍 공부 START; Azure 클라우드 Application Developer 양성과정 1강
+프로그래밍 공부 START; Azure 클라우드 Application Developer 양성과정 1강
 
 * hello world 1
 * hello world 2
